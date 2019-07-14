@@ -1,10 +1,10 @@
 package com.seriozhkina.tetrahedron;
 
 public class Tetrahedron {
-        private Point A;
-        private Point B;
-        private Point C;
-        private Point D;
+        private Point a;
+        private Point b;
+        private Point c;
+        private Point d;
 
 }
 
