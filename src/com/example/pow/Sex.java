@@ -1,4 +1,4 @@
-package com.example.pow;
+package com.epam.jwd.model;
 
 public enum Sex {
     MALE,
